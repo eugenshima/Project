@@ -1,0 +1,31 @@
+﻿  Function.cpp
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(19,58): warning C4101: status: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(19,36): warning C4101: buf1: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(82,25): warning C4101: nameExpert: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(82,42): warning C4101: loginExpert: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(167,24): warning C4101: nameExpert: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(168,6): warning C4101: sum: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(166,6): warning C4101: check: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(167,41): warning C4101: loginExpert: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(253,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(272,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(280,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(471,14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(488,71): warning C4101: msg: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(489,9): warning C4101: cash: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(511,71): warning C4101: msg: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(512,9): warning C4101: cash: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(534,25): warning C4101: nameExpert: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(534,42): warning C4101: loginExpert: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(567,19): warning C4101: msg: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(627,14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(759,14): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(796,71): warning C4101: msg: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(797,9): warning C4101: cash: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(838,71): warning C4101: msg: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Klient_SH\Function.cpp(839,9): warning C4101: cash: неиспользованная локальная переменная
+  Klient_SH.cpp
+  Menu.cpp
+  Server.cpp
+  Создание кода...
+  Klient_SH.vcxproj -> C:\Users\eugen\OneDrive\Documents\GitHub\Project\Klient_SH\Debug\Klient_SH.exe

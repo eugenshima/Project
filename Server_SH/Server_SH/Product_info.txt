@@ -1,0 +1,3 @@
+OpenStock	4	50	Ivan	exp
+ClosedStock	10	1000	Ivan	Exp
+barn	12	500	Alexey	Lesha

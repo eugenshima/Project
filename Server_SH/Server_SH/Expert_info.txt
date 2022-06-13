@@ -1,0 +1,2 @@
+exp	293126136	op21345	exp	exp	0
+Andrey	293126136	mp73462	And	Rew	0

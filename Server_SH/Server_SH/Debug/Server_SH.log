@@ -1,0 +1,75 @@
+﻿  Bank.cpp
+  FileCreator.cpp
+  Human.cpp
+  Menu.cpp
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\Menu.cpp(27,7): warning C4101: var: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\Menu.cpp(144,16): warning C4101: f: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\Menu.cpp(205,16): warning C4101: f: неиспользованная локальная переменная
+  Server.cpp
+  Server_SH.cpp
+  Statistick.cpp
+  User.cpp
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(20,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(31,9): warning C4101: status: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(29,9): warning C4101: tel: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(27,9): warning C4101: nameClient: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(28,9): warning C4101: pas_info: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(106,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(107,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(118,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(119,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(122,42): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(127,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(129,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(135,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(137,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(138,22): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(144,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(146,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(157,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(93,7): warning C4101: nameExpert: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(94,8): warning C4101: rang: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(164,8): warning C4101: nameExpert: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(165,8): warning C4101: loginExpert: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(201,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(223,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(235,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(253,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(263,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(283,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(292,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(273,22): warning C4101: msg: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(348,7): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(360,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(447,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(477,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(504,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(513,29): warning C4101: bufproc: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(513,43): warning C4101: bufsum: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(618,13): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(702,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(727,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(749,9): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(771,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(810,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(849,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(871,9): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(891,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(929,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(979,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(984,19): warning C4101: msg: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(1016,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(1018,25): warning C4101: nameExpert: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(1018,42): warning C4101: loginExpert: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(1040,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(1056,8): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(1068,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(1071,9): warning C4101: cash: неиспользованная локальная переменная
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(1092,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(1095,9): warning C4101: cash: неиспользованная локальная переменная
+  Создание кода...
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(382): warning C4715: User::AutorizationAdmin: значение возвращается не при всех путях выполнения
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(469): warning C4715: User::AutorizationClient: значение возвращается не при всех путях выполнения
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\User.cpp(499): warning C4715: User::AutorizationExpert: значение возвращается не при всех путях выполнения
+C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Server_SH\Server.cpp(26): warning C4172: возвращение адреса локальной или временной переменной : msg
+  Server_SH.vcxproj -> C:\Users\eugen\OneDrive\Documents\GitHub\Project\Server_SH\Debug\Server_SH.exe
